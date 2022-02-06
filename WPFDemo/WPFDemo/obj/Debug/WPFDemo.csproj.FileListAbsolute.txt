@@ -1,0 +1,15 @@
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csprojAssemblyReference.cache
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\berka\Desktop\all c#\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb

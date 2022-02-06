@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDemo", "WPFDemo\WPFDemo.csproj", "{81332ED5-84A5-4712-A926-F49C3243D597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppTimCor", "WpfAppTimCor\WpfAppTimCor.csproj", "{31FD0F6C-2094-4199-8541-F5D71C78B248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81332ED5-84A5-4712-A926-F49C3243D597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81332ED5-84A5-4712-A926-F49C3243D597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81332ED5-84A5-4712-A926-F49C3243D597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81332ED5-84A5-4712-A926-F49C3243D597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31FD0F6C-2094-4199-8541-F5D71C78B248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FD0F6C-2094-4199-8541-F5D71C78B248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FD0F6C-2094-4199-8541-F5D71C78B248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FD0F6C-2094-4199-8541-F5D71C78B248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11AA16BE-60EC-4CAB-959B-EB6C1C7935FC}
+	EndGlobalSection
+EndGlobal
